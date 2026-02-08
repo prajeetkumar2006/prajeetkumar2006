@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Prajeet. I’m a college student interested in embedded systems and electronics. This profile is a collection of my projects, experiments, and ongoing learning.
+Hii, I’m a college student interested in embedded systems and electronics. This profile is a collection of my projects, experiments, and ongoing learning.
 
 
 ## 🌐 Socials:
